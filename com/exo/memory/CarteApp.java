@@ -13,10 +13,6 @@ import javax.swing.JFrame;
 import javax.swing.JToggleButton;
 import javax.swing.SwingUtilities;
 
-import com.example.memory.EtatMemoire;
-import com.example.memory.FrameForDemoMaker;
-import com.example.memory.Jeu;
-
 public class CarteApp extends FrameForDemoMaker {
 
 	private static final int ROW_COUNT = 4;
